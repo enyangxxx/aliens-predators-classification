@@ -18,9 +18,7 @@ Training loss: 0.219322<br>
 Training accuracy: 0.940922<br>
 Validation loss: 0.441823<br>
 Validation accuracy: **0.860000**<br>
-
-![Prediction of a predator image](/ReadMeImages/alien.jpg =200x200)
+<br>
 <img src="/ReadMeImages/alien.jpg" width="40%">
-
-![Prediction of an alien image](/ReadMeImages/alien.jpg =200x200)
+<br>
 <img src="/ReadMeImages/predator.jpg" width="40%">
