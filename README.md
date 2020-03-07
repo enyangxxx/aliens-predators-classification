@@ -7,18 +7,18 @@ The model training is not based on any pre-trained models. It was aimed to play 
 
 The binary classification task is separated into two notebooks: One for the model training, another one for the model evaluation. The result consists of two trained models.
 
-Model 1:
-Training loss: 0.076844
-Training accuracy: 0.989914
-Validation loss: 0.540033
-Validation accuracy: **0.855000**
+Model 1:<br>
+Training loss: 0.076844<br>
+Training accuracy: 0.989914<br>
+Validation loss: 0.540033<br>
+Validation accuracy: **0.855000**<br>
 
-Model 2:
-Training loss: 0.219322
-Training accuracy: 0.940922
-Validation loss: 0.441823
-Validation accuracy: **0.860000**
+Model 2:<br>
+Training loss: 0.219322<br>
+Training accuracy: 0.940922<br>
+Validation loss: 0.441823<br>
+Validation accuracy: **0.860000**<br>
 
-![Prediction of a predator image](/ReadMeImages/alien.jpg)
+![Prediction of a predator image](/ReadMeImages/alien.jpg =200x200)
 
-![Prediction of an alien image](/ReadMeImages/alien.jpg)
+![Prediction of an alien image](/ReadMeImages/alien.jpg =200x200)
