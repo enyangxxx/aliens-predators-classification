@@ -23,4 +23,4 @@ Validation accuracy: **0.860000**<br>
 <br>
 <img src="/readmeImg/predator.jpg" width="40%">
 
-The fun part of this project is a competition between human and model performance. I invited a very intelligent Master student from Hasso-Plattner-Institute and asks him to classify the validation images. I offered him the oppportunity to learn from the training images but he rejected the invitation. While the best model performance is an accuracy score of 86\%, the intelligent HPI-student achieved a result of EMPTY\% accuracy. His predictions for validation image are documented in the Excel file.
+The fun part of this project is a competition between human and model performance. I invited a very intelligent Master student from Hasso Plattner Institute and asks him to classify the validation images. I offered him the oppportunity to learn from the training images but he rejected the invitation. While the best model performance is an accuracy score of 86\%, the intelligent HPI-student achieved a result of EMPTY\% accuracy. His predictions for validation image are documented in the Excel file.
